@@ -28,5 +28,5 @@ This is day two of sttp
 contribution by pooonam c
 
 
-Project maintained by Faris Ansari
+Project maintained by Faris Ansaridbit
 
