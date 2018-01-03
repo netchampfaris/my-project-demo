@@ -1,16 +1,22 @@
+
 Good Morning all
-<<<<<<< HEAD
+
  My Data Table Project
 
-=======
+
+hi i am Nilashree. today is 3rd Jan 2018
+
 
 # My Data Table Project
->>>>>>> 6ac7bd412b3c38d4dcd37e17ab12b710211d140c
+
 
 NOW DATA modified by Lakshmi
-=======
+
 **DATA MODIFIED BY JITHIN ISAAC**
->>>>>>> cf94f6efc6ed5177dd2204e37bdf7cff81b0005a
+
+**DATA RE MODIFIED BY JITHIN ISAAC**
+
+ sushree satapathy
 
 Hello
 
@@ -27,5 +33,5 @@ This is day two of sttp
 contribution by pooonam c
 
 
-Project maintained by Faris Ansari
+Project maintained by Faris Ansaridbit
 
