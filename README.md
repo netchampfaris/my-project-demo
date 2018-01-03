@@ -4,11 +4,11 @@ hi i am Nilashree. today is 3rd Jan 2018
 
 # My Data Table Project
 
-<<<<<<< HEAD
+
 NOW DATA modified by Lakshmi
-=======
+
 **DATA MODIFIED BY JITHIN ISAAC**
->>>>>>> cf94f6efc6ed5177dd2204e37bdf7cff81b0005a
+ sushree satapathy
 
 Hello
 
